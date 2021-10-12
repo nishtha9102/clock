@@ -12,7 +12,7 @@
 #min,
 #sec {
     position: absolute;
-    background: cyan;
+    background: deepskyblue;
     border-radius: 10px;
     transform-origin: bottom;
 }
@@ -38,7 +38,7 @@
 
 #sec {
     width: 1%;
-    height: 20%;
+    height: 38%;
     top: 30%;
     right: 49.5%;
     opacity: 0.5;
