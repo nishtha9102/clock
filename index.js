@@ -1,8 +1,8 @@
 setInterval(() => {
-    d = new Date();
-    htime = d.getHours();
-    mtime = d.getMinutes();
-    stime = d.getSeconds();
+    x = new Date();
+    htime = x.getHours();
+    mtime = x.getMinutes();
+    stime = x.getSeconds();
     hrot = 30 * htime + mtime / 2;
     mrot = 6 * mtime;
     srot = 6 * stime;
